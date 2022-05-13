@@ -1,6 +1,6 @@
 # Methodology of programming  I. retake exam
 
-You can use only and exclusively your personal, previously written codes. You cannot collaborate or communicate
+You can use only and exclusively your personal, previously written codes. You cannot jlaborate or communicate
 with any other person on this exam, nor use anyone else's code in your solution.
 
 ## Tasks
@@ -11,7 +11,7 @@ with any other person on this exam, nor use anyone else's code in your solution.
     - Git / GitHub / Share Project on GitHub (not change the name of the repository)
 1. (2 points) Create a ***Matrix*** class. In ***Matrix*** create the ***minimum*** and the
    ***numbersDivisibleByThree*** methods. Both method has to process a 2-dimensional integer matrix: first one has to
-   define the minimum of the matrix, other one has to collect the numbers divisible by 3.
+   define the minimum of the matrix, other one has to jlect the numbers divisible by 3.
 2. (4 points) Implement the ***Dentist*** class, which handle appointments (patientName, appointment).
    The class should have a ***newAppointment*** (add a new patient with appointment), a ***resign***
    (remove the given appointment of a patient), and a ***getAppointments*** (return the details of actually stored
